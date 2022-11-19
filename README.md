@@ -1,6 +1,6 @@
 (EN DESAROLLO)
 
-Es un fangame de dos personajes de Disney: Miguel Rivera de Coco y Hiro Hamada de BH6
+"Just Act" es un fangame de dos personajes de Disney: Miguel Rivera de Coco y Hiro Hamada de BH6
 
 Los personajes no me pertenecen
 
