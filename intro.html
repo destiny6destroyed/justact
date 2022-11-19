@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>Just Act</title>
+    <link rel="stylesheet" href="code.css"/>
+    <link rel="icon" href="./icon.png">
+    <script>
+window.onload = function(){
+  var theDelay = 2.2;
+  var timer = setTimeout("showText()",theDelay*1000)
+}
+function showText(){
+  document.getElementById("delayedText").style.visibility = "visible";
+}
+    </script>
+</head>
+<body>
+    <div class="home">
+        <video autoplay muted>
+          <source src="start.mp4" type="video/mp4"/>
+        </video>
+    </div>
+    <div id="delayedText" style="visibility:hidden;">
+    <img
+    style="object-fit: cover;
+    position: absolute;
+    width: 100%;
+    height: auto;"
+    src="http://www.signs-unique.co.uk/ekmps/shops/autounique/images/warning-evil-genius-at-work-metal-sign-200mm-x-140mm-2f--12003-p.jpg"/>
+    </div>
+</body>
